@@ -1,0 +1,97 @@
+ids,parents,HS2,labels,values
+1,Animal Products,101,Live animals,8114690
+1,"Animal Products",102,"Meat and edible meat offal",114691465
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",91436471
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",159959655
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",9085057
+2,"Vegetable Products",206,"Trees and other live plants",142811418
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",156464936
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",2484921618
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",318513549
+2,"Vegetable Products",210,"Cereals",4033756
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",9363201
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",18768746
+2,"Vegetable Products",213,"Lac; gums, resins and other vegetable saps and extracts",2945855
+2,"Vegetable Products",214,"Vegetable plaiting materials",535997
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",151569800
+4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",49913862
+4,"Foodstuffs",417,"Sugars and sugar confectionery",95782652
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",11411184
+4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",131430002
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",372566399
+4,"Foodstuffs",421,"Miscellaneous edible preparations",590301870
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",84692510
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",50094466
+4,"Foodstuffs",424,"Tobacco and manufactured tobacco substitutes",5106397
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",31426056
+5,"Mineral Products",526,"Ores, slag and ash",3663660
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",9985004
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",16807852
+6,"Chemical Products",629,"Organic chemicals",9222373
+6,"Chemical Products",630,"Pharmaceutical products",326782925
+6,"Chemical Products",631,"Fertilizers",35102757
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",96952825
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",44857266
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",48331222
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",17907192
+6,"Chemical Products",636,"Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",34526898
+6,"Chemical Products",637,"Photographic or cinematographic goods",762477
+6,"Chemical Products",638,"Chemical products n.e.s.",117208133
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",413802415
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",280632557
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",4004141
+8,"Animal Hides",842,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",6068489
+8,"Animal Hides",843,"Furskins and artificial fur; manufactures thereof",63680
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",66389993
+9,"Wood Products",945,"Cork and articles of cork",37132
+9,"Wood Products",946,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",33334
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",11945791
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",229524375
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",9176204
+11,"Textiles",1150,"Silk",1019.0000000000001
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",52041
+11,"Textiles",1152,"Cotton",38177119
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",681285
+11,"Textiles",1154,"Man-made filaments",23146176
+11,"Textiles",1155,"Man-made staple fibres",3762734
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",6044384
+11,"Textiles",1157,"Carpets and other textile floor coverings",93948
+11,"Textiles",1158,"Woven fabrics",3418256
+11,"Textiles",1159,"Textile fabrics",28938750
+11,"Textiles",1160,"Knitted or chrocheted fabrics",967311
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",35040836
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",14451410
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",6679397
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",2207970
+12,"Footwear and Headwear",1265,"Headgear and parts thereof",831249
+12,"Footwear and Headwear",1266,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",106496
+12,"Footwear and Headwear",1267,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",28239
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",29912397
+13,"Stone And Glass",1369,"Ceramic products",4008246
+13,"Stone And Glass",1370,"Glass and glassware",120694102
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",52265262
+15,"Metals",1572,"Iron and steel",154464826
+15,"Metals",1573,"Iron or steel articles",102888513
+15,"Metals",1574,"Copper and articles thereof",27526816
+15,"Metals",1575,"Nickel and articles thereof",28001854
+15,"Metals",1576,"Aluminium and articles thereof",70274979
+15,"Metals",1578,"Lead and articles thereof",15744186
+15,"Metals",1579,"Zinc and articles thereof",432491
+15,"Metals",1580,"Tin; articles thereof",384711
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",4877949
+15,"Metals",1582,"Tools and cutlery",7481600
+15,"Metals",1583,"Metal; miscellaneous products of base metal",29206352
+16,"Machines",1684,"Machinery and appliances",162454022
+16,"Machines",1685,"Electrical machinery and equipment",846931658
+17,"Transportation",1786,"Railway and other rolling stock",1612509
+17,"Transportation",1787,"Vehicles and their parts",24423724
+17,"Transportation",1788,"Aircraft, spacecraft and parts thereof",5974700
+17,"Transportation",1789,"Ships, boats and floating structures",107045941.00000001
+18,"Instruments",1890,"Instruments and apparatus",4101359667
+18,"Instruments",1891,"Clocks and watches",671716
+18,"Instruments",1892,"Musical instruments",103814
+19,"Weapons",1993,"Arms and ammunition",177419
+20,"Miscellaneous",2094,"Furniture",42589194
+20,"Miscellaneous",2095,"Toys and games",32905883
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",2688360
+21,"Arts and Antiques",2197,"Works of art; collectors' pieces and antiques",655658
